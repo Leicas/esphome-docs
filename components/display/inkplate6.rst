@@ -395,7 +395,7 @@ Below is a config example:
         address: 0x20
 
     display:
-    - platform: inkplate5
+    - platform: inkplate6
       id: inkplate_display
       greyscale: true
       partial_updating: false
